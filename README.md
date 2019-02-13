@@ -7,3 +7,5 @@
 3)	Delete an element at index position enterned by the user.
 4)	Merge the elements of 2 Arrays.(unsorted)
 5)	Read sorted arrays and merge them to generate third sorted Array.
+6)  To perform Linear Search.
+7)  To perform Binary Search.
